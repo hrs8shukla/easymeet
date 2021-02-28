@@ -1,0 +1,705 @@
+00:00:01.743,00:00:04.743
+Akhilesh Verma: 23-89
+
+00:00:11.271,00:00:14.271
+Pulkit Goyal: -66
+
+00:00:13.798,00:00:16.798
+Jigyansh Varshney: -66
+
+00:00:14.691,00:00:17.691
+Ishitwa Agrawal: -66
+
+00:00:14.854,00:00:17.854
+Ayushi Goel: -66
+
+00:00:15.372,00:00:18.372
+Harsh Harit: -66
+
+00:00:15.383,00:00:18.383
+Himanshu Chaurasiya: -66
+
+00:00:15.529,00:00:18.529
+Harshit Shukla: -66
+
+00:00:15.610,00:00:18.610
+Saksham Sharma: -66
+
+00:00:15.789,00:00:18.789
+Ayush Gwari: -66
+
+00:00:16.012,00:00:19.012
+Chaman Kumar: -66
+
+00:00:16.165,00:00:19.165
+Rashmee Pandey: -66
+
+00:00:16.202,00:00:19.202
+Rohit Tomar: -66
+
+00:00:16.394,00:00:19.394
+Tarushi Khanna: -66
+
+00:00:16.455,00:00:19.455
+Eklavya Singh: -66
+
+00:00:16.516,00:00:19.516
+Vipin Paswan: -66
+
+00:00:16.847,00:00:19.847
+Abhinav Kannaujia: -66
+
+00:00:16.868,00:00:19.868
+Saatvik Rawat: -66
+
+00:00:17.034,00:00:20.034
+Garvit: -66
+
+00:00:17.162,00:00:20.162
+Shivanshu Srivastava: -66
+
+00:00:17.505,00:00:20.505
+Ayush Mohan: -66
+
+00:00:17.642,00:00:20.642
+Pravisht Goel: -66
+
+00:00:17.768,00:00:20.768
+Manik Upadhyay: -66
+
+00:00:17.831,00:00:20.831
+Surbhi Saxena: -66
+
+00:00:17.993,00:00:20.993
+Chirag Agrawal: -66
+
+00:00:18.028,00:00:21.028
+Darpan Varshney: -66
+
+00:00:18.089,00:00:21.089
+Supriya Verma: -66
+
+00:00:18.165,00:00:21.165
+Aditi Maheshwari: -66
+
+00:00:18.749,00:00:21.749
+Raghvendra Pratap Singh: -66
+
+00:00:18.837,00:00:21.837
+Shivani Singh: -66
+
+00:00:19.839,00:00:22.839
+Jatin Gupta: -66
+
+00:00:19.855,00:00:22.855
+Preetika Jain: -66
+
+00:00:20.009,00:00:23.009
+Rifa Fatima: -66
+
+00:00:20.447,00:00:23.447
+Dhaval Jain: -66
+
+00:00:20.460,00:00:23.460
+Rishabh Shakya: -66
+
+00:00:20.521,00:00:23.521
+Devesh Kumar: -66
+
+00:00:20.580,00:00:23.580
+Vikas Kumar Singh: -66
+
+00:00:21.036,00:00:24.036
+Anisha Singh: -66
+
+00:00:21.248,00:00:24.248
+Deepanshu Gupta: -66
+
+00:00:23.770,00:00:26.770
+Shristi Shukla: -66
+
+00:00:24.363,00:00:27.363
+Harsh Kumar: -66
+
+00:00:26.301,00:00:29.301
+Shruti Jain: -66
+
+00:00:33.005,00:00:36.005
+Abhinav Kannaujia: -66
+
+00:00:37.883,00:00:40.883
+Pulkit Agarwal: -66
+
+00:01:02.998,00:01:05.998
+Anany Srivastava: -66
+
+00:01:06.701,00:01:09.701
+Yash Jaiswal: -66
+
+00:01:27.363,00:01:30.363
+Deepak Gupta: -66
+
+00:01:40.307,00:01:43.307
+Rajat Mangat: -66
+
+00:03:38.821,00:03:41.821
+Akanshu Rana: -66
+
+00:03:50.016,00:03:53.016
+Himanshu: -66
+
+00:04:06.000,00:04:09.000
+Harshita Singhal: -66
+
+00:05:22.525,00:05:25.525
+Himanshu Chaurasiya: 64
+
+00:05:23.660,00:05:26.660
+Garvit: 64
+
+00:05:23.849,00:05:26.849
+Harsh Kumar: 64
+
+00:05:24.174,00:05:27.174
+Harshit Shukla: 64
+
+00:05:25.070,00:05:28.070
+Jatin Gupta: 64
+
+00:05:26.619,00:05:29.619
+Shubhang Verma: 64
+
+00:05:26.876,00:05:29.876
+Pulkit Goyal: 64
+
+00:05:27.884,00:05:30.884
+Rifa Fatima: 64
+
+00:05:29.422,00:05:32.422
+Shruti Jain: 64
+
+00:05:29.695,00:05:32.695
+Saatvik Rawat: 64
+
+00:05:30.701,00:05:33.701
+Raghvendra Pratap Singh: 64
+
+00:05:31.735,00:05:34.735
+Rajat Mangat: 64
+
+00:05:31.756,00:05:34.756
+Abhinav Kannaujia: 64
+
+00:05:31.771,00:05:34.771
+Ishitwa Agrawal: 64
+
+00:05:33.179,00:05:36.179
+Deepak Gupta: 64
+
+00:05:33.193,00:05:36.193
+Darpan Varshney: 64
+
+00:05:47.378,00:05:50.378
+Akanshu Rana: 64
+
+00:05:48.523,00:05:51.523
+Dhaval Jain: 64
+
+00:05:51.785,00:05:54.785
+Shristi Shukla: 64
+
+00:05:58.782,00:06:01.782
+Surbhi Saxena: 64
+
+00:08:19.955,00:08:22.955
+Himanshu Chaurasiya: 2
+
+00:08:27.994,00:08:30.994
+Supriya Verma: 2
+
+00:08:29.280,00:08:32.280
+Saatvik Rawat: 2
+
+00:08:30.400,00:08:33.400
+Ishitwa Agrawal: 2
+
+00:08:31.006,00:08:34.006
+Harsh Kumar: 2
+
+00:08:32.952,00:08:35.952
+Ayush Mohan: 2
+
+00:08:33.509,00:08:36.509
+Rifa Fatima: 2
+
+00:08:33.708,00:08:36.708
+Shristi Shukla: 2
+
+00:08:34.609,00:08:37.609
+Dhaval Jain: 2
+
+00:08:34.624,00:08:37.624
+Yash Jaiswal: 2
+
+00:08:40.182,00:08:43.182
+Shruti Jain: 2
+
+00:08:42.041,00:08:45.041
+Himanshu: 2
+
+00:08:46.556,00:08:49.556
+Shivanshu Srivastava: 2
+
+00:08:52.276,00:08:55.276
+Harshita Singhal: 2
+
+00:09:35.553,00:09:38.553
+Harsh Kumar: 4
+
+00:09:41.748,00:09:44.748
+Ishitwa Agrawal: 8
+
+00:09:43.022,00:09:46.022
+Supriya Verma: 8
+
+00:09:43.305,00:09:46.305
+Surbhi Saxena: 8
+
+00:09:44.092,00:09:47.092
+Pulkit Goyal: 8
+
+00:09:44.158,00:09:47.158
+Himanshu: 8
+
+00:09:44.758,00:09:47.758
+Pravisht Goel: 8
+
+00:09:47.182,00:09:50.182
+Shruti Jain: 8
+
+00:09:47.984,00:09:50.984
+Harshita Singhal: 8
+
+00:09:48.981,00:09:51.981
+Dhaval Jain: 8
+
+00:09:50.014,00:09:53.014
+Rifa Fatima: 8
+
+00:09:51.580,00:09:54.580
+Raghvendra Pratap Singh: 8
+
+00:09:51.856,00:09:54.856
+Ujjwal Singh: 8
+
+00:10:00.524,00:10:03.524
+Himanshu Chaurasiya: 64/8
+
+00:10:27.094,00:10:30.094
+Shristi Shukla: 8
+
+00:10:47.324,00:10:50.324
+Shikha Gupta: 8
+
+00:28:59.168,00:29:02.168
+Himanshu Chaurasiya: to speed up
+
+00:29:03.916,00:29:06.916
+Jatin Gupta: Fast
+
+00:29:03.991,00:29:06.991
+Ishitwa Agrawal: fast processing
+
+00:29:05.103,00:29:08.103
+Garvit: Boots speed
+
+00:29:05.418,00:29:08.418
+Shivani Singh: Increase the seed
+
+00:29:05.917,00:29:08.917
+Eklavya Singh: Fast speed
+
+00:29:06.054,00:29:09.054
+Dhaval Jain: Speeds up
+
+00:29:06.970,00:29:09.970
+Rishabh Shakya: Fast speed
+
+00:29:07.801,00:29:10.801
+Harshita Singhal: Fast
+
+00:29:08.261,00:29:11.261
+Harsh Kumar: It increases speed
+
+00:29:08.465,00:29:11.465
+Anany Srivastava: Increase speed
+
+00:29:10.558,00:29:13.558
+Rajat Mangat: Increase the speed
+
+00:29:10.707,00:29:13.707
+Ayushi Goel: Fasteb up the processing
+
+00:29:10.859,00:29:13.859
+Raghvendra Pratap Singh: Increase speed
+
+00:29:11.330,00:29:14.330
+Abishek: Fast
+
+00:29:11.543,00:29:14.543
+Utkarsh Patel: To boost processing speed
+
+00:29:12.719,00:29:15.719
+Supriya Verma: Fast speed
+
+00:29:13.210,00:29:16.210
+Rohit Tomar: Faster speed
+
+00:29:14.805,00:29:17.805
+Devesh Kumar: Speed +
+
+00:29:14.891,00:29:17.891
+Rifa Fatima: Increases the speed
+
+00:29:14.912,00:29:17.912
+Shivanshu Srivastava: It increases the speed
+
+00:29:15.551,00:29:18.551
+Harshit Shukla: Increase speed.
+
+00:29:15.830,00:29:18.830
+Ujjwal Singh: increase speed
+
+00:29:17.621,00:29:20.621
+Devansh Kumar: Makes processing faster by storing some commonlly accessing objects
+
+00:29:20.391,00:29:23.391
+Ayushi Goel: Increase siE
+
+00:29:22.104,00:29:25.104
+Rifa Fatima: Increase the size
+
+00:29:22.398,00:29:25.398
+Harsh Kumar: Storage
+
+00:29:22.969,00:29:25.969
+Deepak Gupta: To increase the size
+
+00:29:23.226,00:29:26.226
+Rohit Tomar: Size
+
+00:29:24.140,00:29:27.140
+Jatin Gupta: Increase storage
+
+00:29:25.064,00:29:28.064
+Himanshu: Increased speed
+
+00:29:25.111,00:29:28.111
+Utkarsh Patel: It increases the size
+
+00:29:25.529,00:29:28.529
+Ayushi Goel: SiZe*
+
+00:29:25.707,00:29:28.707
+Darpan Varshney: Increase the speed
+
+00:29:26.239,00:29:29.239
+Sparsh Mittal: Inc speed
+
+00:29:26.710,00:29:29.710
+Shivani Singh: Size increase
+
+00:29:26.976,00:29:29.976
+Rajat Mangat: Large storage
+
+00:29:28.983,00:29:31.983
+Shivanshu Srivastava: To increase size
+
+00:29:29.115,00:29:32.115
+Shruti Jain: Cache memory is used to increase speed and virtual memory is used to increase size
+
+00:29:45.371,00:29:48.371
+Surbhi Saxena: Increase size
+
+00:39:24.782,00:39:27.782
+Pravisht Goel: Y
+
+00:39:26.602,00:39:29.602
+Supriya Verma: Yes sir..
+
+00:45:55.180,00:45:58.180
+Akhilesh Verma: 56+45
+
+00:46:04.003,00:46:07.003
+Ishitwa Agrawal: 101
+
+00:46:05.019,00:46:08.019
+Shristi Shukla: 101
+
+00:46:05.113,00:46:08.113
+Devansh Kumar: 101
+
+00:46:05.118,00:46:08.118
+Saksham Sharma: 101
+
+00:46:05.127,00:46:08.127
+Surbhi Saxena: 101
+
+00:46:05.141,00:46:08.141
+Ujjwal Singh: 101
+
+00:46:05.856,00:46:08.856
+Ayush Gwari: 101
+
+00:46:06.121,00:46:09.121
+Eklavya Singh: 101
+
+00:46:06.200,00:46:09.200
+Saatvik Rawat: 101
+
+00:46:06.387,00:46:09.387
+Himanshu: 101
+
+00:46:06.419,00:46:09.419
+Jatin Gupta: 101
+
+00:46:06.561,00:46:09.561
+Sparsh Mittal: 101
+
+00:46:06.764,00:46:09.764
+Rishabh Shakya: 101
+
+00:46:06.777,00:46:09.777
+Dhaval Jain: 101
+
+00:46:06.800,00:46:09.800
+Garvit: 101
+
+00:46:07.371,00:46:10.371
+Yash Jaiswal: 101
+
+00:46:07.401,00:46:10.401
+Abhinav Kannaujia: 101
+
+00:46:07.485,00:46:10.485
+Utkarsh Patel: 101
+
+00:46:07.707,00:46:10.707
+Rajat Mangat: 101
+
+00:46:07.900,00:46:10.900
+Harshit Shukla: 101
+
+00:46:08.234,00:46:11.234
+Harsh Harit: 101
+
+00:46:08.308,00:46:11.308
+Vipin Paswan: 101
+
+00:46:08.458,00:46:11.458
+Deepak Gupta: 101
+
+00:46:08.482,00:46:11.482
+Raghvendra Pratap Singh: 101
+
+00:46:08.500,00:46:11.500
+Ayushi Goel: 101
+
+00:46:09.317,00:46:12.317
+Devesh Kumar: 101
+
+00:46:09.906,00:46:12.906
+Ayush Mohan: 101
+
+00:46:10.178,00:46:13.178
+Soni Kumari: 101
+
+00:46:10.334,00:46:13.334
+Anisha Singh: 101
+
+00:46:11.111,00:46:14.111
+Harsh Kumar: 101
+
+00:46:11.580,00:46:14.580
+Rifa Fatima: 101
+
+00:46:11.892,00:46:14.892
+Shivani Singh: 101
+
+00:46:12.019,00:46:15.019
+Harshita Singhal: 101
+
+00:46:12.286,00:46:15.286
+Aditi Maheshwari: 101
+
+00:46:13.151,00:46:16.151
+Shruti Jain: 101
+
+00:46:17.759,00:46:20.759
+Abhinav Kannaujia: 101
+
+00:46:19.828,00:46:22.828
+Himanshu Chaurasiya: 101
+
+00:46:33.088,00:46:36.088
+Anany Srivastava: 101
+
+00:46:49.190,00:46:52.190
+Pravisht Goel: 101
+
+00:46:55.426,00:46:58.426
+Shubhang Verma: 101
+
+00:47:04.075,00:47:07.075
+Rohit Tomar: 101
+
+00:47:08.614,00:47:11.614
+Supriya Verma: 101
+
+00:47:16.760,00:47:19.760
+Jatin Gupta: 12
+
+00:47:34.180,00:47:37.180
+Darpan Varshney: 101
+
+00:48:17.133,00:48:20.133
+Ankit Mishra: 101
+
+01:07:43.100,01:07:46.100
+Jigyansh Varshney: 101
+
+01:24:44.724,01:24:47.724
+Akhilesh Verma: 34+78
+
+01:24:51.170,01:24:54.170
+Ishitwa Agrawal: 112
+
+01:24:52.164,01:24:55.164
+Surbhi Saxena: 112
+
+01:24:52.181,01:24:55.181
+Pravisht Goel: 112
+
+01:24:52.507,01:24:55.507
+Pulkit Goyal: 112
+
+01:24:52.637,01:24:55.637
+Garvit: 112
+
+01:24:52.649,01:24:55.649
+Ujjwal Singh: 112
+
+01:24:52.654,01:24:55.654
+Yash Jaiswal: 112
+
+01:24:52.864,01:24:55.864
+Harsh Kumar: 112
+
+01:24:52.992,01:24:55.992
+Chaman Kumar: 112
+
+01:24:53.074,01:24:56.074
+Rishabh Shakya: 112
+
+01:24:53.219,01:24:56.219
+Anisha Singh: 112
+
+01:24:53.227,01:24:56.227
+Saksham Sharma: 112
+
+01:24:53.574,01:24:56.574
+Ayush Gwari: 112
+
+01:24:53.733,01:24:56.733
+Eklavya Singh: 112
+
+01:24:53.912,01:24:56.912
+Utkarsh Patel: 112
+
+01:24:54.452,01:24:57.452
+Devesh Kumar: 112
+
+01:24:54.630,01:24:57.630
+Akanshu Rana: 112
+
+01:24:54.816,01:24:57.816
+Raghvendra Pratap Singh: 112
+
+01:24:54.911,01:24:57.911
+Vipin Paswan: 112
+
+01:24:55.067,01:24:58.067
+Deepak Gupta: 112
+
+01:24:55.119,01:24:58.119
+Soni Kumari: 112
+
+01:24:55.138,01:24:58.138
+Mohit Kumar Singh: 112
+
+01:24:55.298,01:24:58.298
+Shivani Singh: 112
+
+01:24:55.342,01:24:58.342
+Rohit Tomar: 112
+
+01:24:55.367,01:24:58.367
+Abhinav Kannaujia: 112
+
+01:24:55.383,01:24:58.383
+Saatvik Rawat: 112
+
+01:24:55.487,01:24:58.487
+Harshit Shukla: 112
+
+01:24:55.622,01:24:58.622
+Abishek: 112
+
+01:24:56.143,01:24:59.143
+Shruti Jain: 112
+
+01:24:56.192,01:24:59.192
+Rajat Mangat: 112
+
+01:24:57.037,01:25:00.037
+Abhinav Kannaujia: 112
+
+01:24:57.330,01:25:00.330
+Jigyansh Varshney: 112
+
+01:24:58.849,01:25:01.849
+Aditi Maheshwari: 112
+
+01:24:59.020,01:25:02.020
+Soni Kumari: 112
+
+01:24:59.681,01:25:02.681
+Ayush Mohan: 112
+
+01:24:59.754,01:25:02.754
+Jatin Gupta: 112
+
+01:24:59.945,01:25:02.945
+Dhaval Jain: 112
+
+01:25:02.881,01:25:05.881
+Manik Upadhyay: 112
+
+01:25:03.141,01:25:06.141
+Shikha Gupta: 112
+
+01:25:04.020,01:25:07.020
+Yash Jaiswal: 112
+
+01:25:05.138,01:25:08.138
+Himanshu: 112
+
+01:25:05.428,01:25:08.428
+Shristi Shukla: 112
+
+01:25:05.975,01:25:08.975
+Pulkit Agarwal: 112
+
+01:25:07.897,01:25:10.897
+Himanshu Chaurasiya: 112
+
